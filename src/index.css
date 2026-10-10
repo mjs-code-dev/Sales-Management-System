@@ -1,0 +1,7 @@
+/*Global*/
+@import "tailwindcss";
+@source "./**/*.jsx";
+body {
+  background-color: #B4C5D8; /* El tono pastel de tu paleta ❄️ */
+  min-height: 100vh;
+}

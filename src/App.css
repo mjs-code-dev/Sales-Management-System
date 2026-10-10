@@ -1,0 +1,16 @@
+/*Estilos de la app dedicado para app.jsx*/
+
+.layout-contenedor{
+  display: flex;
+  min-height: 100vh;
+}
+
+
+.contenido-principal{
+  flex: 1;
+  padding: 30px;
+}
+/*Clientes*/
+.formulario-horizontal{
+  display: flex;
+}
