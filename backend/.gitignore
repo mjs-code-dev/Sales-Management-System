@@ -1,0 +1,14 @@
+# Maven
+target/
+build/
+
+# Spring Boot - configuración local
+src/main/resources/application.properties
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Logs
+*.log
